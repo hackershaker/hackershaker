@@ -21,8 +21,10 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
-        ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hackershaker&show_icons=true&theme=tokyonight)
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackershaker&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=hackershaker&show_icons=true&theme=tokyonight" />
+        
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackershaker&layout=compact&theme=tokyonight" /> 
     </div> 
+</div>
 </div>
     
